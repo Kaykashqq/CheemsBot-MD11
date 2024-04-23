@@ -15,7 +15,7 @@ global.sessionid ='ur session id'
 
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: iamevilboy" //ur github or insta name
+global.socialm = "GitHub: feranmi245" //ur github or insta name
 global.location = "Nigeria, lagos, Abuja" //ur location
 
 //new
@@ -23,7 +23,7 @@ global.botname = '𝗨𝗥𝗘𝗡𝗡𝗔 𝗠𝗗•🌺🩷' //ur bot name
 global.ownernumber = '2349073846633,2348022159244' //ur owner number
 global.ownername = '𝗨𝗟𝗢𝗠𝗔 𝗨𝗥𝗘𝗡𝗡𝗔 🌺🩷' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "(^_-)-☆"
+global.wagc = "https://chat.whatsapp.com/EMYkHvwKqqd7m89UOnpTpF"
 global.themeemoji = '🌺🩷'
 global.wm = "Antisocial Bot Inc."
 global.botscript = 'https://github.com/cyboeg/CheemsBot-MD11' //script link
